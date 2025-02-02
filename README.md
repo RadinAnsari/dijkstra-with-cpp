@@ -1,9 +1,8 @@
-find Shortest Paths from Source to all Vertices using Dijkstra’s Algorithm.
-![Screenshot from 2024-12-10 17-32-39](https://github.com/user-attachments/assets/c308749e-b567-421c-a29c-144be25775cd)
-
 # 🚗 Dijkstra Algorithm – Shortest Path Finder
 
 This project implements Dijkstra's Algorithm, which is used to find the shortest paths between nodes in a graph. It is often applied in routing and network analysis, such as GPS navigation systems and computer networks.
+
+![Screenshot from 2024-12-10 17-32-39](https://github.com/user-attachments/assets/c308749e-b567-421c-a29c-144be25775cd)
 
 ## ✨ Features  
 - Shortest Path Calculation – Finds the shortest path from a starting node to all other nodes in a weighted graph.  
